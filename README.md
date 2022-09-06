@@ -1,6 +1,6 @@
 # appConcesionaria
 
-- Desarrollada en el curso de Desarrollo Web Full Stack de Digitial House.
+- Desarrollada en el curso de Desarrollo Web Full Stack de Digital House.
  
 - Requiere un archivo autos una lista de objetos literales autos con formato:
   {marca: String, modelo: String, color: String, anio: Number, km: Number, precio: Number, cuotas: Number, patente: String, vendido: Bool}
