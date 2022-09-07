@@ -35,5 +35,3 @@ const concesionaria = {
         return autosSinVender.filter(element => this.puedeComprar(element, persona));
     }
 };
-
-console.log(concesionaria.totalDeVentas());
